@@ -1,5 +1,5 @@
 # downloadtv
-这是一个用于追剧的代码，可以把剧集下载至本地播放，仅仅为了学习测试python，代码不完善，诸多问题还未解决。
+这是一个追剧的测试项目，可以把剧集下载至本地，代码不完善，诸多问题还未解决。
 
 先安装miniconda https://docs.conda.io/en/latest/miniconda.html
 
@@ -11,7 +11,7 @@
 
 video = 'https://mmm.mmm.mmm/vodplay/155947-1-1.html'
 
-getvids函数可以搜索类似的地址，如下形式：
+getvids函数可以在页面搜索类似的地址，如下形式：
 
 https://mmm.mmm.mmm/vodplay/155947-1-1.html
 
