@@ -165,7 +165,7 @@ def main(video, title, vids, first, end, max_workers): # 主循环，根据剧�
 
 if __name__=="__main__":
 
-    video = 'https://www.iuys.cc/vodplay/155947-1-1.html'
+    video = 'https://mmm.mmm.mmm/vodplay/155947-1-1.html' # url示例,粘贴你的视频地址.
     
     vids = ()
     
